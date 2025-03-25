@@ -44,7 +44,7 @@ cp .env.template .env
 
 ## 실행 방법
 ```bash
-python main.py
+python run.py
 ```
 
 ## 테스트 실행
