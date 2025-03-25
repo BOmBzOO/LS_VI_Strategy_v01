@@ -2,7 +2,7 @@
 import json
 from typing import Dict, Any
 
-from src.core.base_handler import BaseHandler
+from src.handlers.base_handler import BaseHandler
 from src.core.websocket_manager import WebSocketManager
 from src.handlers.vi_event_handler import VIEventHandler
 
